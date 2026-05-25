@@ -10,82 +10,71 @@
 
 ### About Me
 
-I'm a **third-year Computer Science + AI** undergraduate at **The Hong Kong University of Science and Technology (HKUST)**, passionate about **multimodal AI**, **embodied intelligence**, and **human-centered computing**.
+Third-year **Computer Science + AI** undergraduate at **HKUST**. Passionate about **multimodal AI**, **human-centered computing**, and building practical intelligent systems that improve people's well-being.
 
-My research interests lie at the intersection of:
-- Multimodal learning (vision + audio + IMU + physiological signals)
-- Foundation models for video understanding and emotion recognition
-- LLM evaluation & agent collaboration
-- Diffusion models for creative applications
+My work focuses on fusing vision, physiological signals, and behavioral data to create real-world AI applications — particularly in emotion understanding, cognitive state monitoring, and sustainable productivity.
 
 ---
 
 ### 🔥 Featured Projects
 
-- **Multi-person Re-Identification via Cross-Modal Data Alignment**  
-  Fusing IMU and camera data for long-term multi-person tracking in autism screening scenarios. *Targeted for publication (2026)*
+**StateGuard** — *Ongoing Personal Project*  
+[GitHub → https://github.com/L-Ark/StateGuard](https://github.com/L-Ark/StateGuard)
 
-- **LLM-Hanabi** — [Paper](https://arxiv.org/pdf/2510.04980)  
-  Co-first author of an EMNLP Workshop 2025 paper. Built a multi-agent benchmark to evaluate Theory of Mind in LLMs within cooperative games.
+A lightweight, privacy-preserving, real-time system for monitoring and intervening in knowledge workers’ cognitive and emotional states.  
 
-- **Self-Supervised Face Foundation Model** (HCI+ 2025)  
-  Integrating physiological signals (PPG) and eye-tracking into video-based emotion recognition at Tsinghua Pervasive HCI Lab.
+- Extracts **rPPG** (heart rate & HRV) and **facial Valence-Arousal** from webcam video using a gated multimodal architecture (~200k params for rPPG model).  
+- Implements a **closed-loop intervention** system: monitoring → reasoning → adaptive intervention → feedback.  
+- Features calm technology design with minimal disruption, personalized thresholds, and daily/weekly wellness reports.  
+- Evolved from my summer research at **Tsinghua Pervasive HCI Lab**.
 
-- **Musical Source Separation & Generation** (EPFL VITA Lab)  
-  Waveform-based diffusion models for music source separation.
+**Multi-person Re-Identification via Cross-Modal Data Alignment** (2026)  
+Fusing IMU and camera modalities for long-term multi-person tracking, aimed at autism early screening. *Targeted for publication.*
 
-- **RoboMaster 2024** — **Project Leader**  
-  Led mechanical design & system integration for HKUST Enterprise Robot Team. Won **1st Prize (Regional)** and **2nd Prize (Final)**.
+**LLM-Hanabi** — [Paper](https://arxiv.org/pdf/2510.04980)  
+Co-first author @ EMNLP Workshop 2025. Designed a multi-agent benchmark to evaluate Theory of Mind in LLMs.
+
+**Self-Supervised Face Foundation Model** (HCI+ 2025)  
+Tsinghua University Collaboration — Integrated physiological signals (rPPG) and eye-tracking into video-based facial emotion recognition.
+
+**Musical Source Separation via Diffusion Models** (EPFL VITA Lab)  
+Explored waveform-based diffusion models for music source separation.
 
 ---
 
 ### 💼 Experience
 
-- **Research Intern** — MiniMax (Hailuo AI / Talkie)  
-  Evaluated LLM factuality, hallucination, and reliability benchmarks.
+- **Research Intern** — MiniMax (Hailuo AI)  
+  Evaluated LLM factuality and hallucination benchmarks.
 
-- **Undergraduate Researcher** — HKUST, Tsinghua, EPFL  
-  Multiple research projects spanning multimodal AI, embodied AI, and creative AI.
+- **Summer Research** — Tsinghua Pervasive HCI Lab (HCI+ 2025)  
+  Worked on face foundation models for emotion and physiological monitoring.
+
+- **Project Leader** — HKUST RoboMaster Enterprise Robot Team (2024)  
+  Led mechanical design and system integration. Won 1st Prize (Regional) & 2nd Prize (Final).
 
 ---
 
 ### 🛠️ Skills
 
-**Languages & Frameworks**
-- **Python** (Advanced), C++, Linux/Unix
-- PyTorch, Hugging Face, OpenAI API
-- Git, Docker, LaTeX
-
-**Core Expertise**
-- Multimodal Learning & Fusion
-- Video & Audio Processing (VideoMAE, Diffusion Models)
-- Large Language Models & Agent Systems
-- Deep Learning, Self-Supervised Learning
-- Theory of Mind / Multi-Agent Evaluation
-
-**Others**
-- Mechanical Design: SolidWorks, AutoCAD, CNC, 3D Printing
-- Robotics System Integration
+- **Languages**: Python (Advanced), C++, Linux  
+- **Frameworks**: PyTorch, Hugging Face, OpenAI API  
+- **Core**: Multimodal Learning, rPPG, Video Understanding, Diffusion Models, LLM Evaluation  
+- **Others**: SolidWorks, AutoCAD, Robotics Integration
 
 ---
 
 ### 🏆 Achievements
 
-- Dean’s List Academic Achievement Medal (Top ~3% in Faculty, 2023–2025)
-- RoboMaster 2024 University Championship: **1st Prize (Regional)** & **2nd Prize (Final)**
-- Published at EMNLP Workshop 2025 (Wordplay)
+- Dean’s List Academic Achievement Medal (Top ~3%, 2023–2025)  
+- RoboMaster 2024: 1st Prize (Regional) & 2nd Prize (Final)  
+- EMNLP Workshop 2025 Publication
 
 ---
 
 ### 📫 Let's Connect
 
-- **Email**: fliangae@connect.ust.hk
-- **Phone**: +852 5933 5964
-- **GitHub**: [@L-Ark](https://github.com/L-Ark)
-- **LinkedIn**: (add your LinkedIn here)
+- **Email**: fliangae@connect.ust.hk  
+- **GitHub**: [@L-Ark](https://github.com/L-Ark)  
 
----
-
-*Currently seeking research opportunities / internships in Multimodal AI, Embodied AI, or Foundation Models (2026 Summer / Fall).*
-
----
+*Actively seeking research internships or collaborations in Multimodal AI, Affective Computing, and Human-AI Interaction (2026).*
