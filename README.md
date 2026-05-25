@@ -12,7 +12,7 @@
 
 Third-year **Computer Science + AI** undergraduate at **HKUST**. Passionate about **multimodal AI**, **affective computing**, **embodied intelligence**, and human-centered systems that bridge perception, physiology, and real-world applications.
 
-I focus on building practical intelligent systems — from real-time physiological monitoring to robust cross-modal identity alignment.
+I focus on building practical intelligent systems — from real-time physiological monitoring to robust cross-modal identity alignment and creative AI.
 
 ---
 
@@ -31,20 +31,28 @@ Lightweight, privacy-preserving, real-time system for monitoring and intervening
 **Best Project Award** — HKUST Embedded AI Systems Course  
 *(Supervised by Prof. Ouyang Xiaomin, HKUST)*
 
-Developing a robust pipeline to associate wearable IMU streams with multi-person camera tracks for long-term identity maintenance (targeted at autism early screening and healthcare monitoring).  
+Developing a robust pipeline to associate wearable IMU streams with multi-person camera tracks for long-term identity maintenance (targeted at autism early screening).  
 - Built end-to-end system including detection, tracking, pose estimation, hybrid synthetic IMU generation, and history-based greedy matching.  
-- Explored synthetic data generation and accumulated error mitigation strategies.  
 - [Project Report](https://github.com/L-Ark/L-Ark/blob/main/docs/Multi-person%20Re-Identification%20via%20Cross-Modal%20Data%20Alignment.pdf)
+
+**Leveraging Diffusion Models for Music Source Separation** — *EPFL VITA Lab Exchange*  
+[Project Report](https://github.com/L-Ark/L-Ark/blob/main/docs/Leveraging%20Diffusion%20Models%20for%20Music%20Source%20Separation.pdf)
+
+Designed and experimented with waveform-native diffusion models for high-fidelity music source separation (drums, bass, guitar, piano).  
+- Integrated **Stable Audio Open** autoencoder with **Scalable Interpolant Transformer (SiT)** under Flow Matching paradigm.  
+- Achieved strong perceptual quality and structural fidelity (highest SSIM = 0.59 among compared generative models), with promising phase coherence.  
+- Explored conditioning strategies (concatenation, cross-attention) and analyzed trade-offs between perceptual quality and SI-SDR.
 
 **Self-Supervised Face Foundation Model** (HCI+ 2025)  
 Tsinghua Pervasive HCI Lab Collaboration  
 Mainly responsible for **video-based facial emotion prediction and recognition**, integrating physiological signals (rPPG) and eye-tracking features into the self-supervised face foundation model.
 
 **LLM-Hanabi** — [Paper](https://arxiv.org/pdf/2510.04980)  
-Co-first author @ EMNLP Workshop 2025. Built multi-agent benchmark for Theory of Mind evaluation in LLMs.
+Co-first author @ EMNLP Workshop 2025 (Wordplay)  
 
-**Musical Source Separation via Diffusion Models** (EPFL VITA Lab)  
-Waveform-based diffusion models for music source separation and generation.
+Designed and implemented **LLM-Hanabi**, a multi-agent benchmark to evaluate Theory of Mind (ToM) and cooperative behaviors in Large Language Models.  
+- Built the full multi-agent environment, ToM evaluation metrics, automated testing pipeline, and conducted comprehensive experiments.  
+- Explored how LLMs perform in cooperative card games requiring belief modeling and communication.
 
 ---
 
@@ -65,7 +73,7 @@ Waveform-based diffusion models for music source separation and generation.
 
 - **Languages**: Python (Advanced), C++, Linux  
 - **Frameworks**: PyTorch, Hugging Face, OpenAI API  
-- **Core**: Multimodal Learning, rPPG, Facial Emotion Recognition, IMU Synthesis, Cross-modal Matching, Diffusion Models, LLM Evaluation  
+- **Core**: Multimodal Learning, rPPG, Facial Emotion Recognition, Diffusion Models, IMU Synthesis, Cross-modal Matching, LLM Evaluation & Multi-Agent Systems  
 - **Others**: SolidWorks, AutoCAD, Robotics Integration
 
 ---
