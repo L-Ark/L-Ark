@@ -10,9 +10,9 @@
 
 ### About Me
 
-Third-year **Computer Science + AI** undergraduate at **HKUST**. Passionate about **multimodal AI**, **affective computing**, **embodied intelligence**, and human-centered intelligent systems that bridge perception, physiology, and real-world impact.
+Third-year **Computer Science + AI** undergraduate at **HKUST**. Passionate about **multimodal AI**, **affective computing**, **embodied intelligence**, and human-centered systems that bridge perception, physiology, and real-world applications.
 
-I enjoy turning research ideas into practical, deployable systems — from lightweight physiological monitoring to robust cross-modal identity alignment.
+I focus on building practical intelligent systems — from real-time physiological monitoring to robust cross-modal identity alignment.
 
 ---
 
@@ -22,25 +22,26 @@ I enjoy turning research ideas into practical, deployable systems — from light
 [GitHub → https://github.com/L-Ark/StateGuard](https://github.com/L-Ark/StateGuard)  
 *(Supervised by Prof. Ma Xiaojuan, HKUST)*
 
-Lightweight, privacy-first, real-time cognitive & emotional state monitoring system for knowledge workers.  
-- Extracts **rPPG** (HR & HRV) and facial **Valence-Arousal** from webcam using a gated multimodal architecture.  
+Lightweight, privacy-preserving, real-time system for monitoring and intervening in knowledge workers’ cognitive and emotional states.  
+- Uses gated multimodal architecture to extract **rPPG** (HR & HRV) and facial **Valence-Arousal** from webcam.  
 - Implements closed-loop Just-in-Time Adaptive Interventions with calm technology design.  
-- Evolved from Tsinghua Pervasive HCI Lab summer research on face foundation models.
+- Evolved from my Tsinghua summer research on face foundation models.
 
 **Multi-person Re-Identification via Cross-Modal Skeleton–IMU Alignment** — *Ongoing Research Project*  
 **Best Project Award** — HKUST Embedded AI Systems Course  
 *(Supervised by Prof. Ouyang Xiaomin, HKUST)*
 
-Developing a robust pipeline to link wearable IMU streams with multi-person camera tracks for long-term identity maintenance in dynamic scenes (e.g., autism early screening, healthcare monitoring).  
-- Built an end-to-end system integrating detection, tracking, pose estimation, synthetic IMU generation, and cross-modal matching.  
-- Proposed hybrid synthetic IMU generation (naive kinematics + WIMUSim) and history-based greedy margin assignment to tackle data scarcity and accumulated error.  
-- Currently extending the work toward publication.
-
-**LLM-Hanabi** — [Paper](https://arxiv.org/pdf/2510.04980)  
-Co-first author @ EMNLP Workshop 2025 (Wordplay). Designed a multi-agent benchmark evaluating Theory of Mind in LLMs.
+Developing a robust pipeline to associate wearable IMU streams with multi-person camera tracks for long-term identity maintenance (targeted at autism early screening and healthcare monitoring).  
+- Built end-to-end system including detection, tracking, pose estimation, hybrid synthetic IMU generation, and history-based greedy matching.  
+- Explored synthetic data generation and accumulated error mitigation strategies.  
+- [Project Report](https://github.com/L-Ark/L-Ark/blob/main/docs/Multi-person%20Re-Identification%20via%20Cross-Modal%20Data%20Alignment.pdf)
 
 **Self-Supervised Face Foundation Model** (HCI+ 2025)  
-Tsinghua University Collaboration — Integrated rPPG physiological signals and eye-tracking into video-based emotion recognition.
+Tsinghua Pervasive HCI Lab Collaboration  
+Mainly responsible for **video-based facial emotion prediction and recognition**, integrating physiological signals (rPPG) and eye-tracking features into the self-supervised face foundation model.
+
+**LLM-Hanabi** — [Paper](https://arxiv.org/pdf/2510.04980)  
+Co-first author @ EMNLP Workshop 2025. Built multi-agent benchmark for Theory of Mind evaluation in LLMs.
 
 **Musical Source Separation via Diffusion Models** (EPFL VITA Lab)  
 Waveform-based diffusion models for music source separation and generation.
@@ -53,7 +54,7 @@ Waveform-based diffusion models for music source separation and generation.
   Evaluated LLM factuality and hallucination benchmarks.
 
 - **Summer Research** — Tsinghua Pervasive HCI Lab (HCI+ 2025)  
-  Face foundation models for emotion and physiological monitoring.
+  Face foundation models for emotion recognition and physiological monitoring.
 
 - **Project Leader** — HKUST RoboMaster Enterprise Robot Team (2024)  
   Led mechanical design and system integration. Won 1st Prize (Regional) & 2nd Prize (Final).
@@ -64,7 +65,7 @@ Waveform-based diffusion models for music source separation and generation.
 
 - **Languages**: Python (Advanced), C++, Linux  
 - **Frameworks**: PyTorch, Hugging Face, OpenAI API  
-- **Core**: Multimodal Learning, rPPG, Video Understanding, Diffusion Models, IMU Synthesis, Cross-modal Matching, LLM Evaluation  
+- **Core**: Multimodal Learning, rPPG, Facial Emotion Recognition, IMU Synthesis, Cross-modal Matching, Diffusion Models, LLM Evaluation  
 - **Others**: SolidWorks, AutoCAD, Robotics Integration
 
 ---
